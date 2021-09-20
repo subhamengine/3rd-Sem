@@ -1,4 +1,4 @@
-![WhatsApp Image 2021-09-20 at 12 49 51 (1)](https://user-images.githubusercontent.com/83713146/133970110-31dd4726-6df6-49f3-9043-59f8d347b7c8.jpeg)
+
 ![WhatsApp Image 2021-09-20 at 13 06 20](https://user-images.githubusercontent.com/83713146/133970117-20816398-7fdd-4c45-8959-9cb5bc8e7346.jpeg)
 ![WhatsApp Image 2021-09-20 at 13 06 20 (1)](https://user-images.githubusercontent.com/83713146/133970144-9780d779-e911-4910-b96c-020fef0b4c48.jpeg)
 ![WhatsApp Image 2021-09-20 at 13 06 20 (2)](https://user-images.githubusercontent.com/83713146/133970146-b78d047d-c394-4794-8e8f-7edb2fa0b7ab.jpeg)
