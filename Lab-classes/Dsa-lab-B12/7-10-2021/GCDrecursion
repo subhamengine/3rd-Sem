@@ -1,0 +1,17 @@
+//wap to calculate hcf recurrsively
+#include<stdio.h>
+int hcf(int n,int m){
+	if(n%m==0){
+		return(m);
+	}
+	else{
+		return(hcf(m,n%m));
+	}
+}
+void main(){
+	int x,y,z;
+	printf("enter two values:");
+	scanf("%d %d",&x,&y);
+	z=hcf(x,y);
+	printf("hcf=%d",z);
+}
